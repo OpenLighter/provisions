@@ -8,10 +8,7 @@ The goal is to help me be able to use less code and spend less time re-writing
 already used code
 """
 
-author = "Christopher McCurdy"
 version = "1.0"
-maintainer = "Christopher McCurdy"
-email = "chris.mccur@gmail.com"
 status = "Production"
 
 import sys
