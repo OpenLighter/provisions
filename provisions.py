@@ -24,7 +24,7 @@ def provision_help():
 
 
 # printf prints the input on the screen without any trailing newline or spaces
-def printf(IO, ):
+def printf(IO):
 	sys.stdout.write(str(IO))
 	sys.stdout.flush()
 
